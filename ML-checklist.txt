@@ -1,0 +1,41 @@
+Ever missed something to pack while going for a trip? Guess what our elders would've suggested. That's right, a checklist! This simple powerful tool goes a long way and saves up a lot of time. This is no different when trying to solve a problem, in our case, a data related problem. A checklist can help you answer a lot of questions, tap the problem across all aspects, give a better understanding and of course save a lot of time. This post is about a checklist that I strongly recommend to have handy when trying to work on a Machine Learning project. Surely, each data problem is unique and has its own set of complexity that comes with it but this is a generic checklist and works for all kinds.
+
+1. DEFINE THE PROBLEM STATEMENT
+A problem statement gives an overall idea of what the actual problem is before even looking at the data. Whatever requirements and statements as received from the customer/business analyst, try to frame it as a one liner to simply understand the overall problem statement. It's not over yet. Try to answer the following questions as well - 
+    * Why does this problem needs to be solved?
+    * What activities were happening (manually) before thinking about ML?
+    * Does this problem really require ML?
+    * Check for assumptions
+    * Select a performance measure
+
+2. PREPARE THE DATA
+Getting to know the data is probably the most important step. Getting good acquaintance with the data provides confidence and the leverage to get to the end result more efficiently. Have an eye on the following -
+    * Data collection
+    * Understanding the data structure
+    * Data preparation
+    * Data transformation
+    * Data summary
+    
+3. TRIAL AND ERROR WITH ALGORITHMS
+A wise man once said, there's never just one solution to a problem. Likewise, potentially, there are a lot of ML algorithms that could solve the purpose. It is a matter of trial and error by putting the major ones to the test and see how well they do. Make sure to - 
+    * Shortlist the algorithms
+    * Build an initial infrastructure without any complex tuning
+    * Evaluate the model and find areas of improvement
+    * Fine tune the model
+    * Filter the best model and measure their error
+    * Evaluate on the hold out set
+  
+4. FINALIZE AND IMPLEMENT
+By this time, most of the work is done but not all of it. The following steps are as important as the previous ones. It is highly necessary to build a solution/tool that is sustainable, flexible and unlikely to rot.
+    * Present the results in the form of visualization and reports
+    * Make the algorithm/tool operational
+    * Monitor the end result and always be open to improvement
+    
+This checklist is just another tool to help achieve good results on a project. Good knowledge and understanding of every step of the way will make it a lot smoother to reach the end goal. Like mentioned upfront, this checklist is robust and can be used for any problem statement. This is just an overview and it goes without saying that each step in itself has lot more tasks to do. 
+
+
+References:
+
+1. Machine Learning Mastery - https://machinelearningmastery.com/machine-learning-checklist/
+2. Hands-On Machine Learning with Scikit-Learn and Tensorflow - https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/
+    
